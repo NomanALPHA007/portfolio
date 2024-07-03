@@ -25,7 +25,7 @@ const Graduation = () => {
                 icon={faCalendarDays}
                 className="internships__calendar"
               />
-              &nbsp;&nbsp;13/08/2018 - 31/07/2022
+              &nbsp;&nbsp;22/10/2022 - Present
             </h2>
             <p>
               Bachelor in Computer Science Software Engineering from 'University

@@ -116,11 +116,12 @@ const Skill = () => {
                       <b>Design Tools:</b> Figma
                     </span>
                   </li>
+                  {/*
                   <li>
                     <span>
                       <b>Preprocessors:</b> PUG, SASS
                     </span>
-                  </li>
+                  </li>*/}
                 </ul>
               </div>
               <div className="skill__details">
