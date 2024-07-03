@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 .header {
   position: relative;
   top: 0;
@@ -14,7 +14,7 @@
   }
 
   &__logo {
-    font-family: 'Sacramento', cursive;
+    font-family: "Sacramento", cursive;
     color: #00ffff;
     font-size: 2em;
     margin-top: 0.5em;
@@ -22,7 +22,7 @@
 
   &__nav-links {
     width: fit-content;
-    font-family: 'RedWingLight';
+    font-family: "RedWingLight";
     ul {
       display: flex;
       justify-content: center;
@@ -226,5 +226,16 @@
   }
   100% {
     height: 100%;
+  }
+}
+
+.header {
+  // Your existing styles
+
+  .header__social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; // Adjust spacing between icons as needed
   }
 }

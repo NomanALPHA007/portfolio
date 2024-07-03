@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import "../../styles/About/About.scss";
 
 const About = () => {
-
   return (
     <>
       <div className="about" id="about">
@@ -73,8 +72,8 @@ const About = () => {
                   H<span>ello,</span>
                 </h2>
                 <p>
-                  I am <span>Your Name Here.</span> <br /> Highly passoinate
-                  front-end Developer with more than 1.5 years of experience.
+                  I am <span>Ehtasham Al Noman.</span> <br /> Highly passoinate
+                  Software Developer
                 </p>
               </Link>
             </div>
@@ -93,10 +92,11 @@ const About = () => {
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>6 month of experience.</span>
-                  <br />I have more than 1.5 years of experience in developing
-                  highly responsive frontend of websites using React.js and
-                  Vue.js
+                  <span>1.5 years of experience.</span>
+                  <br />I have experience in developing highly responsive
+                  full-stack websites and mobile apps using HTML5, CSS,
+                  JavaScript, React.js, Next.js, ReactMUI, TailwindCSS, Figma,
+                  Vue.js, PHP, Java, MySQL, Firebase, Express, and Solidity
                 </p>
               </Link>
             </div>
@@ -115,8 +115,13 @@ const About = () => {
                   I<span>nternships</span>
                 </h2>
                 <p>
-                  <span>Interned at -</span> <br />
+                  <span>
+                    I am eagerly anticipating the opportunity to embark on my
+                    first internship
+                  </span>{" "}
+                  <br />
                 </p>
+                {/*
                 <ul>
                   <li>
                     <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
@@ -128,6 +133,7 @@ const About = () => {
                     <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
                   </li>
                 </ul>
+                */}
               </Link>
             </div>
             <div
@@ -145,9 +151,14 @@ const About = () => {
                   E<span>ngineering</span>
                 </h2>
                 <p>
-                  <span>College Name </span>
+                  <span>Universiti Teknologi Malaysia </span>
                   <br />
-                  Description.... Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam vitae aliquid dolorum qui reiciendis mollitia, itaque dolores eaque ullam quo soluta libero! Natus.
+                  Universiti Teknologi Malaysia (UTM) has provided me with a
+                  robust foundation in Computer Science, specializing in
+                  Software Engineering. The university's rigorous curriculum and
+                  state-of-the-art facilities have enabled me to gain in-depth
+                  knowledge and practical experience in various programming
+                  languages and technologies.
                 </p>
               </Link>
             </div>

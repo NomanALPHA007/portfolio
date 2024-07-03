@@ -1,19 +1,19 @@
-import React, { useEffect } from 'react';
+import React, { useEffect } from "react";
 
-import '../../styles/Hero/Hero.scss';
+import "../../styles/Hero/Hero.scss";
 
-import Myself from '../../assets/images/myself.png';
+import Myself from "../../assets/images/myself.png";
 
 const Hero = () => {
   useEffect(() => {
-    const alphbets = document.getElementsByClassName('hero__alphabet');
+    const alphbets = document.getElementsByClassName("hero__alphabet");
     for (let i = 0; i <= alphbets.length; i++) {
-      alphbets[i]?.addEventListener('animationend', function () {
-        alphbets[i].classList.remove('alphabet-animated');
+      alphbets[i]?.addEventListener("animationend", function () {
+        alphbets[i].classList.remove("alphabet-animated");
       });
 
-      alphbets[i]?.addEventListener('mouseover', function () {
-        alphbets[i].classList.add('alphabet-animated');
+      alphbets[i]?.addEventListener("mouseover", function () {
+        alphbets[i].classList.add("alphabet-animated");
       });
     }
   }, []);
@@ -25,7 +25,7 @@ const Hero = () => {
           <div className="hero__intro-box">
             <p className="hero__intro-title">
               <span className="hero__intro-line" data-aos="fade-down"></span>
-              Hello, I am Name
+              Hello, I am Ehtasham Al Noman
             </p>
             <p className="hero__animated-alphabet-box">
               <span
@@ -33,56 +33,56 @@ const Hero = () => {
                 data-aos="fade-up"
                 data-aos-delay="200"
               >
-                F
+                S
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="400"
               >
-                R
+                O
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="600"
               >
-                O
+                F
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="800"
               >
-                N
+                T
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1000"
               >
-                T
+                W
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1200"
               >
-                E
+                A
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1400"
               >
-                N
+                R
               </span>
               <span
                 className="hero__alphabet hero__alphabet--last"
                 data-aos="fade-up"
                 data-aos-delay="1600"
               >
-                D
+                E
               </span>
               <span
                 className="hero__developer-text"
@@ -92,16 +92,17 @@ const Hero = () => {
                 <span className="hero__dev-text">Developer</span>
               </span>
             </p>
+
             <div
               className="hero__description"
               data-aos="fade"
               data-aos-delay="1800"
             >
               <p>
-                I'm a passionate and responsible{' '}
-                <span>front-end developer</span>, with more than 1.5 years of
-                experience. Skilled in developing highly responsive websites and
-                mobile apps with elegant and efficient code.
+                I'm a passionate and responsible <span>Software developer</span>
+                , with more than 1.5 years of experience. Skilled in developing
+                highly responsive websites and mobile apps with elegant and
+                efficient code.
               </p>
             </div>
 
