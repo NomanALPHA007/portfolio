@@ -123,7 +123,7 @@ const Contact = () => {
                   {" "}
                   <FontAwesomeIcon icon={faLocationDot} size="2x" />
                   <p>
-                    <span>Address:&nbsp;&nbsp;</span>UTM, SKUDAI, JHOR,
+                    <span>Address:&nbsp;&nbsp;</span>UTM, SKUDAI, JOHOR,
                     MSLAYSIA.
                   </p>
                 </li>

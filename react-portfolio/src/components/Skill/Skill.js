@@ -219,9 +219,6 @@ const Skill = () => {
                   <li>
                     <span>Express.js</span>
                   </li>
-                  <li>
-                    <span>MongoDB</span>
-                  </li>
                 </ul>
               </div>
             </div>

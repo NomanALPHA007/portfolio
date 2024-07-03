@@ -4,11 +4,20 @@
   width: 100%;
   background: #0e0e0e;
   color: #ffffff;
-  font-family: 'Sacramento', cursive;
+  font-family: "Sacramento", cursive;
   font-weight: 300;
   padding: 1em 0;
   text-align: center;
   margin-top: 3em;
+  .footer__container {
+    display: inline-block; /* Ensure the container takes minimal width */
+    text-align: center; /* Center-align the contents within the container */
+  }
+
+  .footer__image {
+    width: 50%; /* Set the width to 50% of its original size */
+    margin-bottom: 10px; /* Space between image and text */
+  }
   p {
     word-spacing: 0.2em;
     svg {
