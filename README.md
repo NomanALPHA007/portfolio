@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-👋 Hi there, This personal portfolio website is created using Html, Scss, Javascript and React.js. 
+👋 Hi there, This personal portfolio website is created using Html, Scss, Javascript and React.js.
 
 For creating this minimalistic and creative portfolio website, you can download the source code by clicking the download button. To understand the source code, you need to have knowledge of React.js and a few packages that are used for animations, which are mentioned below. You can check them out at the mentioned links.
 
@@ -16,32 +16,32 @@ I hope this project will be helpful for you and add some value to your React.js 
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
-![Screenshot 4](path/to/screenshot4.png)
-![Screenshot 5](path/to/screenshot5.png)
+![Screenshot 1](./react-portfolio/images/1st_ss.png)
+![Screenshot 2](./react-portfolio/images/2nd_ss.png)
+![Screenshot 3](./react-portfolio/images/3rd_ss.png)
+![Screenshot 4](./react-portfolio/images/4th_ss.png)
+![Screenshot 5](./react-portfolio/images/5th_ss.png)
 
 ## Installation
 
 To run this application locally, follow these steps:
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/portfolio-website.git
-    ```
+   ```sh
+   git clone https://github.com/yourusername/portfolio-website.git
+   ```
 2. Navigate to the project directory:
-    ```sh
-    cd portfolio-website
-    ```
+   ```sh
+   cd portfolio-website
+   ```
 3. Install the dependencies:
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 4. Start the development server:
-    ```sh
-    npm start
-    ```
+   ```sh
+   npm start
+   ```
 
 ## Usage
 
@@ -57,17 +57,17 @@ Contributions are welcome! If you'd like to contribute:
 
 1. Fork the repository.
 2. Create your feature branch:
-    ```sh
-    git checkout -b feature/my-new-feature
-    ```
+   ```sh
+   git checkout -b feature/my-new-feature
+   ```
 3. Commit your changes:
-    ```sh
-    git commit -am 'Add some feature'
-    ```
+   ```sh
+   git commit -am 'Add some feature'
+   ```
 4. Push to the branch:
-    ```sh
-    git push origin feature/my-new-feature
-    ```
+   ```sh
+   git push origin feature/my-new-feature
+   ```
 5. Submit a pull request.
 
 HAPPY CODING!!
