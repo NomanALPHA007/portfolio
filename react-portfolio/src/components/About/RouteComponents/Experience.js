@@ -65,7 +65,7 @@ const Experience = () => {
                     icon={faCalendarDays}
                     className="experience__calendar"
                   />
-                  &nbsp; &nbsp;07/01/2022 - PRESENT
+                  &nbsp; &nbsp;07/01/2024 - PRESENT
                 </h3>
                 <ul>
                   <p>Responsible for -</p>
