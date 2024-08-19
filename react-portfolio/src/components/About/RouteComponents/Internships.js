@@ -21,10 +21,10 @@ const Internships = () => {
           </div>
           <div className="internships__description">
             <div className="internships__main-box">
-              {/*
+              
               {data.portfolio.internships.internship.map((content) => (
                 <Internship key={content.companyName} details={content} />
-              ))}*/}
+              ))}
             </div>
           </div>
         </div>
