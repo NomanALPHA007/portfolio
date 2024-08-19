@@ -122,10 +122,11 @@ const About = () => {
                 </p>
                 
                 <ul>
-                {/*
+                
                   <li>
                     <span>Advanced Robotics Systems (ARS)</span> - Front-end Developer{" "}
                   </li>
+                {/*
                   <li>
                     <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
                   </li>
