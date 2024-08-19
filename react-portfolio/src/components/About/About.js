@@ -116,15 +116,15 @@ const About = () => {
                 </h2>
                 <p>
                   <span>
-                    I am eagerly anticipating the opportunity to embark on my
-                    first internship
+                    I am currently doing an internship at Advanced Robotics Systems (ARS) as a Front End Developer.
                   </span>{" "}
                   <br />
                 </p>
-                {/*
+                
                 <ul>
+                {/*
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>Advanced Robotics Systems (ARS)</span> - Front-end Developer{" "}
                   </li>
                   <li>
                     <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
@@ -132,8 +132,9 @@ const About = () => {
                   <li>
                     <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
                   </li>
+                  */}
                 </ul>
-                */}
+                
               </Link>
             </div>
             <div
