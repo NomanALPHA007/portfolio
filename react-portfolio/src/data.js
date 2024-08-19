@@ -46,18 +46,19 @@ export const config = {
     internships: {
       internship: [
         {
-          companyName: "Company Name",
+          companyName: "Advanced Robotics Systems (ARS)",
           role: "Front-end Developer",
-          introText: "",
-          duration: "29/03/2022 - 29/05/2022",
-          keyPointOne: "Built front-end of multiple website using ReactJS",
-          keyPointTwo: "Add few lines here....",
+          introText: "As a Front-end Developer at ARS, I am responsible for building responsive and dynamic user interfaces that enhance the overall user experience.",
+          duration: "01/08/2024 - Present",
+          keyPointOne: "Built front-end of multiple websites using ReactJS, ensuring a seamless and responsive user experience.",
+          keyPointTwo: "Collaborated closely with back-end developers to integrate APIs and optimize performance across various platforms.",
           keyPointThree:
-            "Add few lines here... if requried Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptas dolo Perspiciatis voluptas do.",
+            "Implemented advanced UI/UX features, including animations, transitions, and state management, to create an interactive and engaging user interface.",
           keyPointFour:
-            "Add few lines here... if requried Lorem, ipsum dolor sit amet consectetur adipisicing architecto molestiae.",
+            "Worked with a team to develop scalable and maintainable code, following best practices and coding standards.",
           offsetValue: "0",
         },
+        /*
         {
           companyName: "Company Name",
           role: "Front-end Developer",
@@ -81,6 +82,7 @@ export const config = {
           keyPointFour: "",
           offsetValue: "-1000",
         },
+        */
       ],
     },
   },
