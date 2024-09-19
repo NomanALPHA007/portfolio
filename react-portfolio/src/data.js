@@ -6,7 +6,7 @@ export const config = {
                 {
           heading: "portfolio",
           description:
-            "Project description. Ehtasham Al Noman portfolio website showcases a comprehensive collection of his academic and professional achievements, highlighting his expertise in software engineering. With a clean and modern design, the site features an array of projects that demonstrate his proficiency in HTML, CSS, JavaScript, and other programming languages. Visitors can explore detailed project descriptions, view live demos, and access source code repositories on GitHub. The portfolio also includes sections on Ehtashams educational background, certifications, and relevant skills, providing a well-rounded view of his capabilities. Contact information and links to his LinkedIn and GitHub profiles ensure easy connectivity for potential employers and collaborators,",
+            "Project description. Ehtasham Al Noman portfolio website showcases a comprehensive collection of his academic and professional achievements, highlighting his expertise in software engineering. With a clean and modern design, the site features an array of projects that demonstrate his proficiency in HTML, CSS, JavaScript, and other programming languages.",
           animationDelay: "900",
           buttonLink: "https://github.com/NomanALPHA007/portfolio",
           buttonText: "CHECK OUT",
