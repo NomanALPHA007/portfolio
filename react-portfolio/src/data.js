@@ -12,12 +12,14 @@ export const config = {
           buttonText: "CHECK OUT",
         },
         {
-          heading: "NFT Marketplace DApp,
+          heading: "NFT Marketplace DApp",
           description:
-            "Project description. NFT Marketplace DApp provides a decentralized marketplace where creators can mint, showcase, and sell their digital creations as NFTs. These NFTs represent ownership of digital assets, such as art, music, videos, virtual real estate, and more, with each token being one-of-a-kind and indivisible: "900",
+             "Project description. NFT Marketplace DApp provides a decentralized marketplace where creators can mint, showcase, and sell their digital creations as NFTs. These NFTs represent ownership of digital assets, such as art, music, videos, virtual real estate, and more, with each token being one-of-a-kind and indivisible.",
+          animationDelay: "900",
           buttonLink: "https://github.com/NomanALPHA007/NFT-MARKETPLACE/tree/main",
           buttonText: "CHECK OUT",
-        },
+        }
+
         {
           heading: "My Schedule - To Do List App",
           description:
