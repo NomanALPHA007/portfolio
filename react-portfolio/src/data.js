@@ -3,7 +3,7 @@ export const config = {
     portfolioLogo: "Portfolio",
     projectCard: {
       cards: [
-                {
+        {
           heading: "portfolio",
           description:
             "Project description. Ehtasham Al Noman portfolio website showcases a comprehensive collection of his academic and professional achievements, highlighting his expertise in software engineering. With a clean and modern design, the site features an array of projects that demonstrate his proficiency in HTML, CSS, JavaScript, and other programming languages.",
@@ -11,6 +11,7 @@ export const config = {
           buttonLink: "https://github.com/NomanALPHA007/portfolio",
           buttonText: "CHECK OUT",
         },
+        {
           heading: "NFT Marketplace DApp,
           description:
             "Project description. NFT Marketplace DApp provides a decentralized marketplace where creators can mint, showcase, and sell their digital creations as NFTs. These NFTs represent ownership of digital assets, such as art, music, videos, virtual real estate, and more, with each token being one-of-a-kind and indivisible: "900",
